@@ -69,6 +69,8 @@ AFK Wellness is designed for:
 
 It helps users develop healthier daily habits in a fun and sustainable way.
 
+###Core Idea
+
 
 
 

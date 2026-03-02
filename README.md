@@ -34,7 +34,7 @@ Member 5: Lim Way Han (QA Tester & Documentation Lead)
 * Report Writing: Responsible for section "5. SDLC Phases: Testing/Feedback", "8. Reflections & Lessons Learned", and "9. Conclusion".
 
 # Project Description
-### Problem
+### - Problem
 
 In today’s digital lifestyle, students, programmers, gamers, and office workers spend long hours sitting in front of screens.
 
@@ -54,7 +54,7 @@ Most reminder apps (e.g., drink water or take a break) are ineffective because u
 
 There is a lack of engaging and motivating tools that encourage healthy habits consistently.
 
-### Who it helps??
+### - Who it helps??
 AFK Wellness is designed for:
 
 * University students
@@ -69,7 +69,25 @@ AFK Wellness is designed for:
 
 It helps users develop healthier daily habits in a fun and sustainable way.
 
-###Core Idea
+### - Core Idea
+
+AFK Wellness turns real-life healthy behaviors into a gamified experience.
+
+### Instead of boring reminders, users:
+
+* Gain EXP (Experience Points) for completing healthy tasks
+
+* Level up their virtual avatar
+
+* Unlock rewards and streak bonuses
+
+### If users remain inactive for too long:
+
+* Their avatar loses HP
+
+* They lose streak rewards
+
+By applying gamification and behavioral psychology principles, the app motivates users to stay active and build consistent healthy habits.
 
 
 

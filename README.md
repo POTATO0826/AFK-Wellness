@@ -53,6 +53,23 @@ Most reminder apps (e.g., drink water or take a break) are ineffective because u
 
 There is a lack of engaging and motivating tools that encourage healthy habits consistently.
 
+# Who it helps??
+AFK Wellness is designed for:
+
+* University students
+
+* Programmers and developers
+
+* Gamers
+
+* Office workers
+
+* Anyone with a sedentary lifestyle
+
+It helps users develop healthier daily habits in a fun and sustainable way.
+
+
+
 
 
 

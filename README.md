@@ -89,6 +89,45 @@ AFK Wellness turns real-life healthy behaviors into a gamified experience.
 
 By applying gamification and behavioral psychology principles, the app motivates users to stay active and build consistent healthy habits.
 
+#Overview of SDLC Work
+
+### - Planning 
+During the planning phase, we identified the increasing issue of sedentary lifestyles among young adults.
+
+We:
+
+* Defined the problem statement
+
+* Identified the target users
+
+* Selected SDG 3 (Good Health and Well-being)
+
+* Listed core features (EXP system, HP penalty, streak rewards)
+
+* Defined the Minimum Viable Product (MVP)
+
+This phase helped us establish clear project objectives and scope.
+
+### - Design Phase 
+In the design phase, we created:
+
+* Use Case Diagram
+
+* Class Diagram (User, Avatar, Task, Reward, HealthMonitor)
+
+* Wireframes for main screens
+
+* System architecture plan
+
+We designed the gamification logic, including:
+
+* EXP calculation rules
+
+* HP reduction conditions
+
+* Streak tracking mechanism
+
+This ensured the system structure was logical and scalable.
 
 
 

@@ -1,5 +1,5 @@
 # AFK-Wellness
-SDG 3 – Good Health and Well-being
+### SDG 3 – Good Health and Well-being
 
 # Team Members & Roles
 
@@ -34,7 +34,8 @@ Member 5: Lim Way Han (QA Tester & Documentation Lead)
 * Report Writing: Responsible for section "5. SDLC Phases: Testing/Feedback", "8. Reflections & Lessons Learned", and "9. Conclusion".
 
 # Project Description
-Problem
+### Problem
+
 In today’s digital lifestyle, students, programmers, gamers, and office workers spend long hours sitting in front of screens.
 
 This leads to:
@@ -53,7 +54,7 @@ Most reminder apps (e.g., drink water or take a break) are ineffective because u
 
 There is a lack of engaging and motivating tools that encourage healthy habits consistently.
 
-# Who it helps??
+### Who it helps??
 AFK Wellness is designed for:
 
 * University students

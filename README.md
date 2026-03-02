@@ -129,6 +129,40 @@ We designed the gamification logic, including:
 
 This ensured the system structure was logical and scalable.
 
+### - Testing Phase 
+During testing, we:
+
+* Tested EXP calculation logic
+
+* Verified HP penalty triggers
+
+* Checked UI functionality
+
+* Collected user feedback on usability
+
+* Identified and fixed bugs
+
+We ensured that the system behaved correctly under different scenarios.
+
+### - Evaluation Phase 
+After testing, we evaluated:
+
+* Whether the app effectively encourages movement
+
+* User engagement level
+
+* Ease of use
+
+* System performance
+
+Based on feedback, we proposed improvements such as:
+
+* Adding customizable reminders
+
+* Expanding reward systems
+
+* Integrating wearable device tracking
+
 
 
 

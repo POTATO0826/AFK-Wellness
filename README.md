@@ -9,7 +9,7 @@
 * Ensure task cards move correctly through stages (e.g., To Do → Doing → Done) and track progress using burndown charts.  
 * Report Writing: Responsible for drafting the "Product Vision Document", as well as section "3. Project Introduction" and "4. Agile Process / Trello Usage" of the report.
 
- Member 2: Clarence Chan Guan Yuan (Systems Analyst)
+ Member 2: Clarence Chan Guan Yuan and Saad Muhammad (Systems Analyst)
 * Core Responsibility: System requirements gathering and UML modeling.
 * Specific Tasks: * Determine the core functionalities required for your chosen health App/system.
 * Create standard Use Case Diagrams and Class Diagrams using appropriate modeling techniques and tools.  
@@ -113,7 +113,7 @@ In the design phase, we created:
 
 * Use Case Diagram
 
-* Class Diagram (User, Avatar, Task, Reward, HealthMonitor)
+* Class Diagram (User, Avatar, Task, Reward, Admin)
 
 * Wireframes for main screens
 
